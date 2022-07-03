@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://minggu-togel-master.github.io/sitemap.xml
